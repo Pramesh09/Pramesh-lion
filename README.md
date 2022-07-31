@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/K54KLgF/Picsart-22-07-03-15-45-00-698.jpg"
+<img src="https://i.ibb.co/K54KLgF/Picsart-22-07-03-15-45-00-698.jpg" alt="nz" width="600"/>
 
 <img src="https://i.ibb.co/6tCrPD6/image-downloader-1654443961039.gif" alt="nz" width="600"/>
 - 👋 Hi, I’m @Pramesh09
